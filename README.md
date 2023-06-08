@@ -134,6 +134,8 @@ Execute the programs and publish them.
 
 ## HTML VALIDATOR
 
+![image](https://github.com/SAILESHKUMAR33/NearMe/assets/113497410/43b8d672-97cc-49b3-93fa-b1e5077bd2af)
+
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
